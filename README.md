@@ -28,6 +28,7 @@
 * Dirsearch ➜ https://github.com/maurosoria/dirsearch
 * ffuf ➜ https://github.com/ffuf/ffuf
 * WhatWeb ➜ https://github.com/urbanadventurer/WhatWeb
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPLv3) autonomous AI penetration testing platform: 50+ offensive tools across web, cloud, AD and Kubernetes, self-hosted, the model never receives your real IPs or credentials.
 * Nuclei ➜ https://github.com/projectdiscovery/nuclei
 * SQLMap ➜ https://github.com/sqlmapproject/sqlmap
 * Dalfox ➜ https://github.com/hahwul/dalfox
